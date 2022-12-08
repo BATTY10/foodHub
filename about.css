@@ -1,0 +1,15 @@
+.header-section{
+    text-align: center;
+}
+.header-section h1{
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.product-section{
+    display: flex;
+
+}
+.about-product{
+    border: solid;
+    width: 100%;
+}
